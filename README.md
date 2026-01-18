@@ -48,12 +48,6 @@
 
 ---
 
-### 📁 Representative Project
-*   **[BonsCore Framework]**: Spring Boot 3 & Vue 3 기반의 엔터프라이즈 표준 프레임워크 구축 프로젝트
-    *   [상세 내용 보기 (Repository 이동)](https://github.com/koobs97/BonsCore)
-
----
-
 ### 📧 Contact & More
 - **Email**: koobs97@naver.com
 - **LinkedIn**: [본상 구 (LinkedIn)](https://www.linkedin.com/in/본상-구-1b06a03a1)
