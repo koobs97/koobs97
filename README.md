@@ -2,8 +2,8 @@
 
 ### 🏦 Career Overview
 - **4년 차 백엔드 개발자** | 대리 (2022.03 - 2025.12)
-- **전문 분야**: 금융권(K-Bank, 카카오뱅크 등) IFRS 고도화 및 핵심 결산 시스템 구축
-- **핵심 역량**: 백엔드 아키텍처 설계, 데이터 정합성 검증 자동화, 운영 안정성 최적화
+- **전문 분야**: 금융권(K-Bank, 카카오뱅크 등) 내부 시스템 구축
+- **핵심 역량**: 백엔드 / 프론트엔드 개발, 데이터 정합성 검증, 운영 안정성 최적화
 
 ---
 
@@ -13,14 +13,12 @@
   <img src="https://img.shields.io/badge/Java_17-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot_3.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/MyBatis-C4A764?style=for-the-badge&logo=mybatis&logoColor=white">
-  <img src="https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
 </p>
 
 **Database & Infrastructure**
 <p align="left">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 </p>
 
 **Front-end & Tools**
@@ -50,5 +48,3 @@
 
 ### 📧 Contact & More
 - **Email**: koobs97@naver.com
-- **LinkedIn**: [본상 구 (LinkedIn)](https://www.linkedin.com/in/본상-구-1b06a03a1)
-- **LinkedIn**: www.linkedin.com/in/본상-구-1b06a03a1
