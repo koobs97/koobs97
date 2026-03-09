@@ -123,16 +123,8 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=koobs97&show_icons=true&theme=default&hide_border=true&count_private=true" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koobs97&layout=compact&theme=default&hide_border=true" height="160">
-</p>
-
-<br>
-
 ## 📬 Contact
 
-- **Email**: koobs97@naver.com
-- **GitHub**: [github.com/koobs97](https://github.com/koobs97)
+- 📱 **Phone**: 010-8702-****
+- ✉️ **Email**: koobs97@naver.com
+- 💻 **GitHub**: [github.com/koobs97](https://github.com/koobs97)
